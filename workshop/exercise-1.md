@@ -99,7 +99,7 @@ Boolean:False
 - value: { name: name, age: age, isMarried: isMarried }
 5. let kids = [{name: 'Morty', age: 3}, {name: 'Summer', age: 7}]
 - type: Object
-- value: {name: 'Morty', age: 3} & {name: 'Summer', age: 7}
+- value:{name: 'Morty', age: 3} & {name: 'Summer', age: 7}
 
 ## Question 8: Use string interpolation instead of concatenation
 
